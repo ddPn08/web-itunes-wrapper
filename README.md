@@ -1,4 +1,4 @@
-# Web Itunes Wrapper
+# Web iTunes Wrapper
 
 Hey, are you tired of the UI of iTunes app for Windows?
 Use the web version of iTunes as an app!
