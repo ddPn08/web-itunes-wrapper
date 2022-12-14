@@ -1,7 +1,10 @@
-# Tauri + Vanilla
+# Web Itunes Wrapper
 
-This template should help get you started developing with Tauri in vanilla HTML, CSS and Javascript.
+Hey, are you tired of the UI of iTunes app for Windows?
+Use the web version of iTunes as an app!
 
-## Recommended IDE Setup
+[**Download**](https://github.com/ddPn08/web-itunes-wrapper/releases/latest)
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+# Screenshot
+
+![](/images/screenshot-01.png)
